@@ -1,6 +1,6 @@
 # IP-TRACKER
 
-## Información que nos brinda
+## Información que podemos sacar
 
 #### Country
 #### Country Code
